@@ -8,16 +8,7 @@
 
 ESRM es un programa para grabación de pantalla con **efectos visuales en tiempo real**, hecho 100% con **chat GPT**, está escrito en **python** y con interfaz gráfica en _Custom Tkinter_, se usa FFMPEG para realizar las grabaciones (en cualquier caso, debe instalar **FFMPEG** y añadirlo al **PATH**).
 
-## 📦 Requisitos
-
-### Componentes Requeridos
-- FFmpeg ([Descarga Directa](https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-full.7z)) en PATH
-- Python 3.11.6 o superior
-- Sistema operativo **_probado_**: **Windows 10**
-
-## **Archivos/Versiones/builds**:
-
-Descargue e instale sin necesidad de tener python instalado [Releases](https://github.com/tutosrive/effect-screen-recorder-master/releases)
+[![Download effect-screen-recorder-master](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/e-srm/files/latest/download)
 
 ## Instalar con PIP (debe tener [![Python 3.11.6+](https://img.shields.io/badge/Python-3.11.6%2B-blue.svg)](https://www.python.org/) instalado)
 
@@ -40,6 +31,17 @@ srm
 # Tercer comando
 effect-screen-recorder-master
 ```
+
+## **Archivos/Versiones/builds**:
+
+Descargue e instale sin necesidad de tener python instalado [Releases](https://github.com/tutosrive/effect-screen-recorder-master/releases)
+
+## 📦 Requisitos
+
+### Componentes Requeridos
+- FFmpeg ([Descarga Directa](https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-full.7z)) en PATH
+- Python 3.11.6 o superior
+- Sistema operativo **_probado_**: **Windows 10**
 
 # Interfaz del programa
 
