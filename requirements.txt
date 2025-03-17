@@ -1,0 +1,4 @@
+customtkinter==5.2.2
+pillow==11.1.0
+ffmpeg-python==0.2.0
+chromologger==0.1.8
