@@ -1,5 +1,7 @@
 # 🎥 Effect Screen Recorder Master (ESRM) v0.1.0
 
+<!-- Total downloads -->
+[![Total Downloads](https://static.pepy.tech/badge/effect-srm)](https://pepy.tech/projects/effect-srm)
 [![Python 3.11.6+](https://img.shields.io/badge/Python-3.11.6%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![FFmpeg Required](https://img.shields.io/badge/FFmpeg-Required-orange.svg)](https://ffmpeg.org/)
