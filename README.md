@@ -13,6 +13,8 @@
 pip install effect-srm
 ```
 
+---
+
 ESRM es un programa para grabación de pantalla con **efectos visuales en tiempo real**, hecho 100% con **chat GPT**, está escrito en **python** y con interfaz gráfica en _Custom Tkinter_, se usa FFMPEG para realizar las grabaciones (en cualquier caso, debe instalar **FFMPEG** y añadirlo al **PATH**).
 
 [![Download effect-screen-recorder-master](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/e-srm/files/latest/download)
