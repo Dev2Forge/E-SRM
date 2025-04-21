@@ -1,5 +1,21 @@
 # 🎥 Effect Screen Recorder Master (ESRM) v0.1.0
 
+---
+
+<div style="display: flex; align-items: center; justify-content: center; margin: 10px 0; gap: 10px; max-height: 48px; height: 48px;">
+  <a href="https://github.com/sponsors/tutosrive" target="_blank">
+  <img src="https://img.shields.io/badge/Sponsor-%F0%9F%92%96%20tutosrive-orange?style=for-the-badge&logo=github" alt="Sponsor me on GitHub">
+</a>
+  <a href="https://www.buymeacoffee.com/tutosrive">
+    <img 
+      src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=tutosrive&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" 
+      style="height: 48px; width: auto; object-fit: contain; border-radius: 6px;" 
+      alt="Buy me a coffee button">
+  </a>
+</div>
+
+---
+
 <!-- Total downloads -->
 [![Total Downloads](https://static.pepy.tech/badge/effect-srm)](https://pepy.tech/projects/effect-srm)
 [![Python 3.11.6+](https://img.shields.io/badge/Python-3.11.6%2B-blue.svg)](https://www.python.org/)
