@@ -150,4 +150,4 @@ Incluir en todos los usos/modificaciones:
 ## 📧 Contacto
 
 **Autor:** Tutos Rive  
-**Soporte:** [srmtrg.ser@gmail.com](mailto:srmtrg.ser@gmail.com)
+**Soporte:** [support@dev2forge.software](mailto:support@dev2forge.software)
