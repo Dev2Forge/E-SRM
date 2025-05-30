@@ -57,7 +57,7 @@ effect-screen-recorder-master
 
 ## **Archivos/Versiones/builds**:
 
-Descargue e instale sin necesidad de tener python instalado [Releases](https://github.com/tutosrive/effect-screen-recorder-master/releases)
+Descargue e instale sin necesidad de tener python instalado [Releases](https://github.com/Dev2Forge/e-srm/releases)
 
 ## 📦 Requisitos
 
@@ -93,7 +93,7 @@ Descargue e instale sin necesidad de tener python instalado [Releases](https://g
 
 1. Clonar repositorio:
 ```bash
-git clone https://github.com/tutosrive/effect-screen-recorder-master.git
+git clone https://github.com/Dev2Forge/E-SRM.git
 ```
 
 2. Instalar dependencias:
@@ -131,7 +131,7 @@ python code/__main__.py
 
 ## 📄 Licencia
 
-Este proyecto está bajo licencia MIT - ver el archivo [LICENSE](https://github.com/tutosrive/effect-screen-recorder-master/blob/main/LICENSE) para más detalles.
+Este proyecto está bajo licencia MIT - ver el archivo [LICENSE](https://github.com/Dev2Forge/e-srm/blob/main/LICENSE) para más detalles.
 
 **Atribución Requerida:**
 ```text
